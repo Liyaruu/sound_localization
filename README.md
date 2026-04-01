@@ -1,1 +1,1 @@
-注：本项目为第十八届智能车声音信标组的开源代码，具体解释请移步http://t.csdnimg.cn/geXu1
+注：本项目为第十八届智能车声音信标组的开源代码，具体解释请移步https://blog.csdn.net/m0_66616115/article/details/136775139?fromshare=blogdetail&sharetype=blogdetail&sharerId=136775139&sharerefer=PC&sharesource=m0_66616115&sharefrom=from_link
